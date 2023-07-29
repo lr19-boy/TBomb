@@ -1,5 +1,5 @@
 # TBomb
-![TBomb]([https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true])
+[Tbomb](https://github.com/TheSpeedX/TBomb)
 
 # How to send a spam message to a person using tbomb.
 
@@ -15,7 +15,7 @@ Step 4: Then type ```pip install tbomb``` in the shell and give enter.
 
 # How to use it
 
-`tbomb`
+{tbomb}
 
 `In Enter Choice: (type 1)`
 
