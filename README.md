@@ -9,7 +9,7 @@ This is just for fun purpose.
 # Installations
 
 Step 1: Choose Python template from the replit.
-Step 2: You will see a panel on the right side of the coding file. Click the *+* button there and choose Shell
+Step 2: You will see a panel on the right side of the coding file. Click the **+** button there and choose Shell
 Step 3: Type _pip_ and choose enter. You will see the commands from the keyword _pip_.
 Step 4: Then type ```pip install tbomb``` in the shell and give enter.
 
