@@ -15,7 +15,9 @@ Step 4: Then type ```pip install tbomb``` in the shell and give enter.
 
 # How to use it
 
-```tbomb```
+```bash
+tbomb
+```
 
 ```bash 
 In Enter Choice: (type 1)
