@@ -1,5 +1,5 @@
 # TBomb
-![https://github.com/TheSpeedX/TBomb][TBomb]([https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true](https://github.com/TheSpeedX/TBomb))
+![https://github.com/TheSpeedX/TBomb][TBomb]([https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true])
 
 # How to send a spam message to a person using tbomb.
 
