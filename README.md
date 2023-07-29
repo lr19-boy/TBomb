@@ -12,22 +12,22 @@ Step 4: Then type ```pip install tbomb``` in the shell and give enter.
 
 # How to use it
 
-```tbomb```
+`tbomb`
 
-```In Enter Choice: (type 1)```
+`In Enter Choice: (type 1)`
 
-```Type the country code```
+`Type the country code`
 
-```Type the number```
+`Type the number`
 
-```Enter any number (Max: 500)```
+`Enter any number (Max: 500)`
 
-```Enter the delay time in seconds```
+`Enter the delay time in seconds`
 
-```Enter any number of thread (Recommended: based on the count of number u send the spam message)```
+`Enter any number of thread (Recommended: based on the count of number u send the spam message)`
 
-```You will see small information and give enter then u will see how much it send and much failed```
+`You will see small information and give enter then u will see how much it send and much failed`
 
-```After it finishes it will exit back```
+`After it finishes it will exit back`
 
-```Done```
+`Done`
