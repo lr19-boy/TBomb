@@ -1,3 +1,6 @@
+# TBomb
+![TBomb]([https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true](https://github.com/TheSpeedX/TBomb))
+
 # How to send a spam message to a person using tbomb.
 
 I this project I am going to teach you how to send a spam message to a person.
