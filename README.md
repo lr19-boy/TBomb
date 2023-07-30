@@ -45,4 +45,4 @@ Done
 + TBomb +
 ```
 
-© Copyright to SpeedX. Released under the GNU GENERAL PUBLIC LICENSE.
+© Copyright to SpeedX.
