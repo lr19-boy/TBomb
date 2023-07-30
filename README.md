@@ -43,8 +43,7 @@ Done
 # Credits
 
 ```diff
-- red
-TBomb
+- TBomb
 ```
 
 © Copyright to SpeedX. Released under the GNU GENERAL PUBLIC LICENSE.
