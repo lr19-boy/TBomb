@@ -1,5 +1,4 @@
-# TBomb
-<h1 align="center"> <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a> </h1>
+<h1 align="center"><a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb">TBomb</a></h1>
 
 # How to send a spam message to a person using tbomb.
 
