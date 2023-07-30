@@ -39,3 +39,8 @@ After it finishes it will exit back
 
 Done
 ```
+
+# Credits
+
+TBomb
+Copyright (C) [SpeedX]
