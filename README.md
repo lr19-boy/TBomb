@@ -42,6 +42,6 @@ Done
 
 # Credits
 
-<p color:"White">TBomb</p>
+<p color:"Blue">TBomb</p>
 
 © Copyright to SpeedX. Released under the GNU GENERAL PUBLIC LICENSE.
