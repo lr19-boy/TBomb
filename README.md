@@ -43,4 +43,6 @@ Done
 # Credits
 
 TBomb
+
+[project]
 Copyright (C) [SpeedX]
