@@ -1,5 +1,5 @@
 # TBomb
-[TBomb](https://github.com/TheSpeedX/TBomb)
+ <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
 
 # How to send a spam message to a person using tbomb.
 
@@ -42,7 +42,6 @@ Done
 
 # Credits
 
-TBomb
+<p color:"White">TBomb</p>
 
-[project]
-Copyright (C) [SpeedX]
+© Copyright to SpeedX. Released under the GNU GENERAL PUBLIC LICENSE.
