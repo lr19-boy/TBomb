@@ -1,5 +1,5 @@
 # TBomb
-![Tbomb](https://github.com/TheSpeedX/TBomb)
+![#f03c15](https://github.com/TheSpeedX/TBomb)
 
 # How to send a spam message to a person using tbomb.
 
